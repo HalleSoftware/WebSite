@@ -2,13 +2,13 @@
 	"name": "halle-web",
 	"version": "0.0.1",
 	"private": false,
-	"homepage": "https://github.com/HalleSoftware/halle.software#readme",
+	"homepage": "https://github.com/HalleSoftware/Website#readme",
 	"bugs": {
-		"url": "https://github.com/HalleSoftware/halle.software/issues"
+		"url": "https://github.com/HalleSoftware/Website/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/HalleSoftware/halle.software.git"
+		"url": "git+https://github.com/HalleSoftware/Website.git"
 	},
 	"license": "MIT",
 	"author": {
