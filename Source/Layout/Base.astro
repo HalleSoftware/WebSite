@@ -51,15 +51,12 @@ import { ViewTransitions } from "astro:transitions";
 		<!-- Favicon -->
 		<ViewTransitions />
 	</Head>
-	<body>
-		<!-- TODO Generate the ID here -->
-		<div id="">
-			<div class="grow">
-				<slot />
-			</div>
-			<script>
-				import "@Script/Firebase";
-			</script>
+	<body class="flex grow">
+		<div class="grow">
+			<slot />
 		</div>
+		<script>
+			import "@Script/Firebase";
+		</script>
 	</body>
 </html>
