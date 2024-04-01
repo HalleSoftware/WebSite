@@ -2,7 +2,7 @@
 	"name": "@website/halle_software",
 	"version": "0.0.1",
 	"private": true,
-	"homepage": "https://github.com/HalleSoftware/Website#readme",
+	"homepage": "https://github.com/HalleSoftware/Website#ReadMe",
 	"bugs": {
 		"url": "https://github.com/HalleSoftware/Website/issues"
 	},
@@ -34,7 +34,7 @@
 		"astrojs-service-worker": "2.0.0",
 		"autoprefixer": "10.4.19",
 		"@playform/biome-astro": "0.0.3",
-		"@playform/compress-astro": "0.0.1",
+		"@playform/compress-astro": "0.0.2",
 		"@playform/critters-astro": "0.0.2",
 		"cssnano": "6.1.2",
 		"cssnano-preset-advanced": "6.1.2",
