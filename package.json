@@ -2,13 +2,13 @@
 	"name": "@website/halle_software",
 	"version": "0.0.1",
 	"private": true,
-	"homepage": "https://GitHub.Com/HalleSoftware/Website#readme",
+	"homepage": "https://github.com/HalleSoftware/Website#readme",
 	"bugs": {
-		"url": "https://GitHub.Com/HalleSoftware/Website/issues"
+		"url": "https://github.com/HalleSoftware/Website/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://GitHub.Com/HalleSoftware/Website.git"
+		"url": "git+https://github.com/HalleSoftware/Website.git"
 	},
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
@@ -33,7 +33,7 @@
 		"astro-critters": "2.1.6",
 		"astrojs-service-worker": "2.0.0",
 		"autoprefixer": "10.4.19",
-		"@playform/biome-astro": "0.0.2",
+		"@playform/biome-astro": "0.0.3",
 		"@playform/compress-astro": "0.0.1",
 		"@playform/critters-astro": "0.0.2",
 		"cssnano": "6.1.2",
@@ -48,7 +48,7 @@
 		"postcss-url": "10.1.3",
 		"tailwindcss": "3.4.3",
 		"typescript": "5.4.3",
-		"typescript-esbuild": "0.4.10",
+		"@playform/build": "0.0.1",
 		"zod": "3.22.4"
 	},
 	"publishConfig": {
