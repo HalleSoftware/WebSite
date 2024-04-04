@@ -1,3 +1,3 @@
 # 🗺️ [Website]
 
-[Website]: https://npmjs.org/starter-template-astro
+[Website]: https://npmjs.org/@playform/starter
