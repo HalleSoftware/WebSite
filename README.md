@@ -1,3 +1,3 @@
-# 🗺️ [Website.]
+# 🗺️ [Website —]
 
-[Website.]: https://npmjs.org/@playform/starter
+[Website —]: https://npmjs.org/@playform/starter
