@@ -1,3 +1,3 @@
 # [WebSite 🗾]
 
-[WebSite 🗾]: HTTPS://npmjs.org/@playform/starter
+[WebSite 🗾]: https://npmjs.org/@playform/starter
